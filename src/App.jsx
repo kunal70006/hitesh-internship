@@ -1,9 +1,10 @@
 import React from "react";
+import Table from "./components/Table";
 
 const App = () => {
   return (
-    <div>
-      <h1>hello</h1>
+    <div className="parentWrapper">
+      <Table />
     </div>
   );
 };
