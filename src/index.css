@@ -177,3 +177,16 @@ th {
   align-items: center;
   color: rgb(100, 100, 100);
 }
+
+.github {
+  text-align: end;
+}
+
+.github a,
+.github a::before,
+.github a::after {
+  text-decoration: none;
+  color: lightskyblue;
+  cursor: pointer;
+  font-weight: 600;
+}

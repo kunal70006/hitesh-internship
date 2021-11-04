@@ -30,6 +30,14 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div className="github">
+        <a
+          href="https://github.com/kunal70006/hitesh-internship"
+          target="_blank"
+        >
+          Github
+        </a>
+      </div>
     </div>
   );
 };
