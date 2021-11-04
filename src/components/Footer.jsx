@@ -34,6 +34,7 @@ const Footer = () => {
         <a
           href="https://github.com/kunal70006/hitesh-internship"
           target="_blank"
+          rel="noreferrer"
         >
           Github
         </a>
