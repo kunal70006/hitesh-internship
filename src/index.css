@@ -20,6 +20,7 @@
 .cardsWrapper {
   display: flex;
   flex-direction: row;
+  align-items: center;
   margin: 1rem 0;
 }
 
@@ -28,6 +29,7 @@
   flex-direction: row;
   width: 20%;
   height: 120px;
+
   padding: 10px;
   margin: auto 1rem;
   border-radius: 10px;
@@ -132,6 +134,10 @@ th,
 tr {
   padding: 10px 24px;
   border: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+
+td {
+  text-align: center;
 }
 
 th {
